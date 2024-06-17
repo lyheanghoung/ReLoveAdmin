@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567499652911",
+    "project_id": "the-application-80033",
+    "storage_bucket": "the-application-80033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567499652911:android:ed1623369d2108e99b6bda",
+        "android_client_info": {
+          "package_name": "kh.edu.rupp.fe.dse.theapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3W-5aejZhdm8rr67xFSJCHp3g4YwSmOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
